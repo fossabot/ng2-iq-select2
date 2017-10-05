@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/Innqube/ng2-iq-select2.svg?branch=master)](https://travis-ci.org/Innqube/ng2-iq-select2)
 [![codecov](https://codecov.io/gh/Innqube/ng2-iq-select2/branch/master/graph/badge.svg)](https://codecov.io/gh/Innqube/ng2-iq-select2)
 [![Code Climate](https://codeclimate.com/github/Innqube/ng2-iq-select2/badges/gpa.svg)](https://codeclimate.com/github/Innqube/ng2-iq-select2)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdiegofsza%2Fng2-iq-select2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdiegofsza%2Fng2-iq-select2?ref=badge_shield)
 
 Angular 2 native select 2 implementation based on bootstrap 3
 
@@ -173,3 +174,7 @@ Configuration options (Inputs and Outputs)
 }
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdiegofsza%2Fng2-iq-select2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdiegofsza%2Fng2-iq-select2?ref=badge_large)
